@@ -15,10 +15,10 @@ void Menu()
 	cout << "1. To Show" << endl;
 	cout << "2. To Add" << endl;
 	cout << "3. To Delete" << endl;
-  cout << "4. To Find" << endl;
-  cout << "5. To Replace" << endl;
-  cout << "6. To Sort" << endl;
-  cout << "7. To Delete The List" << endl;
+  	cout << "4. To Find" << endl;
+  	cout << "5. To Replace" << endl;
+  	cout << "6. To Sort" << endl;
+  	cout << "7. To Delete The List" << endl;
 	cout << "8. To Finish" << endl;
 }
 
